@@ -1,0 +1,322 @@
+h1de0us, [10.05.2023 04:30]
+Creep: arousal=0.43, valence=0.104
+No Surprises: arousal=0.393, valence=0.118
+High and Dry: arousal=0.383, valence=0.35
+Karma Police: arousal=0.501, valence=0.324
+Weird Fishes/ Arpeggi: arousal=0.61, valence=0.199
+Jigsaw Falling Into Place: arousal=0.832, valence=0.807
+Just: arousal=0.767, valence=0.359
+Exit Music (For A Film): arousal=0.276, valence=0.195
+Nude: arousal=0.342, valence=0.167
+All I Need: arousal=0.478, valence=0.0997
+Fake Plastic Trees: arousal=0.229, valence=0.135
+Paranoid Android: arousal=0.848, valence=0.207
+How to Disappear Completely: arousal=0.302, valence=0.19
+Black Star: arousal=0.555, valence=0.306
+Let Down: arousal=0.676, valence=0.143
+House Of Cards: arousal=0.499, valence=0.628
+Everything In Its Right Place: arousal=0.463, valence=0.0629
+15 Step: arousal=0.854, valence=0.844
+Reckoner: arousal=0.656, valence=0.214
+Creep - Acoustic: arousal=0.239, valence=0.147
+Bodysnatchers: arousal=0.976, valence=0.733
+My Iron Lung: arousal=0.859, valence=0.672
+Street Spirit (Fade Out): arousal=0.454, valence=0.131
+Subterranean Homesick Alien: arousal=0.595, valence=0.337
+You: arousal=0.707, valence=0.298
+Knives Out: arousal=0.675, valence=0.184
+Airbag: arousal=0.872, valence=0.648
+Bullet Proof ... I Wish I Was: arousal=0.359, valence=0.0776
+The Bends: arousal=0.755, valence=0.312
+True Love Waits: arousal=0.132, valence=0.0381
+There, There: arousal=0.677, valence=0.716
+2 + 2 = 5: arousal=0.717, valence=0.386
+Videotape: arousal=0.383, valence=0.0506
+Faust Arp: arousal=0.288, valence=0.225
+Lucky: arousal=0.4, valence=0.195
+Blow Out: arousal=0.719, valence=0.275
+Idioteque: arousal=0.931, valence=0.525
+Climbing Up the Walls: arousal=0.656, valence=0.221
+Motion Picture Soundtrack: arousal=0.13, valence=0.0427
+Pyramid Song: arousal=0.336, valence=0.0679
+Lotus Flower: arousal=0.676, valence=0.62
+(Nice Dream): arousal=0.566, valence=0.375
+Daydreaming: arousal=0.263, valence=0.113
+Talk Show Host: arousal=0.479, valence=0.504
+Planet Telex: arousal=0.881, valence=0.258
+The Tourist: arousal=0.295, valence=0.0398
+Decks Dark: arousal=0.501, valence=0.271
+Optimistic: arousal=0.757, valence=0.573
+Man of War: arousal=0.473, valence=0.141
+The National Anthem: arousal=0.754, valence=0.388
+Electioneering: arousal=0.888, valence=0.329
+Burn the Witch: arousal=0.847, valence=0.62
+I Might Be Wrong: arousal=0.735, valence=0.505
+Sail To The Moon: arousal=0.295, valence=0.0536
+Present Tense: arousal=0.407, valence=0.336
+Spectre: arousal=0.451, valence=0.104
+You And Whose Army?: arousal=0.15, valence=0.131
+A Wolf At the Door: arousal=0.675, valence=0.364
+Permanent Daylight: arousal=0.708, valence=0.0768
+Thinking About You: arousal=0.37, valence=0.42
+Bones: arousal=0.705, valence=0.419
+Kid A: arousal=0.428, valence=0.159
+Where I End and You Begin: arousal=0.713, valence=0.48
+Codex: arousal=0.128, valence=0.0654
+Sulk: arousal=0.635, valence=0.671
+Fitter Happier: arousal=0.391, valence=0.744
+Identikit: arousal=0.459, valence=0.35
+I Will: arousal=0.133, valence=0.167
+Lift: arousal=0.546, valence=0.158
+Treefingers: arousal=0.146, valence=0.0577
+Gagging Order: arousal=0.267, valence=0.168
+In Limbo: arousal=0.635, valence=0.509
+Glass Eyes: arousal=0.11, valence=0.0632
+Anyone Can Play Guitar: arousal=0.812, valence=0.555
+Morning Bell: arousal=0.462, valence=0.392
+Ful Stop: arousal=0.662, valence=0.178
+Go Slowly: arousal=0.393, valence=0.0446
+Go To Sleep: arousal=0.86, valence=0.66
+Myxomatosis: arousal=0.816, valence=0.571
+Life In a Glasshouse: arousal=0.397, valence=0.0466
+Separator: arousal=0.776, valence=0.631
+Desert Island Disk: arousal=0.282, valence=0.158
+Last Flowers: arousal=0.307, valence=0.286
+Packt Like Sardines In a Crushd Tin Box: arousal=0.638, valence=0.65
+Sit Down. Stand Up: arousal=0.559, valence=0.522
+The Numbers: arousal=0.372, valence=0.0551
+True Love Waits - Live in Oslo: arousal=0.483, valence=0.0642
+No Surprises - Remastered: arousal=0.449, valence=0.0797
+A Punch Up at a Wedding: arousal=0.507, valence=0.562
+How Do You?: arousal=0.964, valence=0.238
+Bloom: arousal=0.959, valence=0.341
+
+h1de0us, [10.05.2023 04:30]
+
+Scatterbrain: arousal=0.753, valence=0.234
+India Rubber: arousal=0.655, valence=0.526
+Untitled: arousal=0.225, valence=0.0769
+Stop Whispering: arousal=0.696, valence=0.298
+Backdrifts: arousal=0.719, valence=0.725
+Everything In Its Right Place: arousal=0.463, valence=0.0629
+Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief: arousal=0.436, valence=0.0508
+Give Up The Ghost: arousal=0.262, valence=0.157
+The Daily Mail: arousal=0.362, valence=0.159
+I Promise: arousal=0.435, valence=0.487
+How to Disappear Completely: arousal=0.302, valence=0.19
+Exit Music (For A Film) - Remastered: arousal=0.296, valence=0.206
+Vegetable: arousal=0.717, valence=0.419
+4 Minute Warning: arousal=0.303, valence=0.225
+Ripcord: arousal=0.906, valence=0.256
+Prove Yourself: arousal=0.62, valence=0.319
+Bangers + Mash: arousal=0.98, valence=0.65
+Little By Little: arousal=0.887, valence=0.603
+Like Spinning Plates: arousal=0.409, valence=0.218
+We Suck Young Blood: arousal=0.239, valence=0.0378
+Dollars and Cents: arousal=0.565, valence=0.0883
+I Can't: arousal=0.825, valence=0.273
+Pulk/Pull Revolving Doors: arousal=0.625, valence=0.141
+The Gloaming: arousal=0.609, valence=0.115
+Morning Mr Magpie: arousal=0.587, valence=0.402
+Lurgee: arousal=0.548, valence=0.409
+If You Say the Word: arousal=0.527, valence=0.424
+Morning Bell/Amnesiac: arousal=0.421, valence=0.182
+Hunting Bears: arousal=0.264, valence=0.0736
+Down Is The New Up: arousal=0.845, valence=0.124
+Let Down - Remastered: arousal=0.753, valence=0.12
+Up On The Ladder: arousal=0.617, valence=0.135
+The National Anthem: arousal=0.754, valence=0.388
+Feral: arousal=0.777, valence=0.729
+Kid A: arousal=0.428, valence=0.159
+Idioteque: arousal=0.931, valence=0.525
+Optimistic: arousal=0.757, valence=0.573
+Paranoid Android - Remastered: arousal=0.826, valence=0.216
+Ill Wind: arousal=0.491, valence=0.223
+Karma Police - Remastered: arousal=0.577, valence=0.367
+Polyethylene (Parts 1 & 2) - Remastered: arousal=0.499, valence=0.209
+Meeting in the Aisle - Remastered: arousal=0.776, valence=0.148
+How I Made My Millions - Remastered: arousal=0.243, valence=0.246
+If You Say the Word: arousal=0.527, valence=0.424
+Motion Picture Soundtrack: arousal=0.13, valence=0.0427
+Fake Plastic Trees - Acoustic Version: arousal=0.177, valence=0.153
+Pyramid Song: arousal=0.336, valence=0.0679
+How to Disappear into Strings: arousal=0.181, valence=0.0283
+Creep: arousal=0.43, valence=0.104
+Treefingers: arousal=0.146, valence=0.0577
+Talk Show Host: arousal=0.659, valence=0.453
+MK 1: arousal=0.0977, valence=0.0397
+How Can You Be Sure?: arousal=0.416, valence=0.381
+In Limbo: arousal=0.635, valence=0.509
+The Trickster: arousal=0.83, valence=0.703
+Banana Co: arousal=0.478, valence=0.341
+Airbag - Remastered: arousal=0.935, valence=0.617
+Knives Out: arousal=0.675, valence=0.184
+You And Whose Army?: arousal=0.15, valence=0.131
+Staircase: arousal=0.877, valence=0.808
+Punchdrunk Lovesick Singalong: arousal=0.364, valence=0.126
+Like Spinning Plates - Live: arousal=0.384, valence=0.101
+Subterranean Homesick Alien - Remastered: arousal=0.635, valence=0.252
+Morning Bell: arousal=0.462, valence=0.392
+Harry Patch (In Memory Of): arousal=0.205, valence=0.0507
+Fog - Again Again Version: arousal=0.392, valence=0.0471
+Pearly* - Remastered: arousal=0.853, valence=0.32
+Lull - Remastered: arousal=0.617, valence=0.156
+I Might Be Wrong: arousal=0.735, valence=0.505
+Fog: arousal=0.607, valence=0.0985
+Packt Like Sardines In a Crushd Tin Box: arousal=0.638, valence=0.65
+Melatonin - Remastered: arousal=0.484, valence=0.0536
+Like Spinning Plates - 'Why Us?' Version: arousal=0.536, valence=0.204
+Climbing Up the Walls - Remastered: arousal=0.633, valence=0.227
+You Never Wash Up After Yourself - Live: arousal=0.191, valence=0.546
+Follow Me Around: arousal=0.4, valence=0.263
+MK 2: arousal=0.263, valence=0.039
+A Reminder - Remastered: arousal=0.5, valence=0.141
+My Iron Lung: arousal=0.859, valence=0.672
+Lucky - Remastered: arousal=0.452, valence=0.151
+Palo Alto - Remastered: arousal=0.818, valence=0.327
+Pulk/Pull Revolving Doors: arousal=0.625, valence=0.141
+
+h1de0us, [10.05.2023 04:30]
+
+Untitled: arousal=0.225, valence=0.0769
+I Will - Los Angeles Version: arousal=0.268, valence=0.25
+Pulk/Pull - True Love Waits Version: arousal=0.517, valence=0.112
+The Tourist - Remastered: arousal=0.328, valence=0.0398
+Fog (Again) - Live: arousal=0.304, valence=0.196
+Killer Cars: arousal=0.919, valence=0.422
+Electioneering - Remastered: arousal=0.951, valence=0.44
+The Amazing Sounds of Orgy: arousal=0.628, valence=0.206
+Lozenge of Love: arousal=0.158, valence=0.195
+Climbing Up the Walls - Zero 7 Mix: arousal=0.513, valence=0.347
+Life In a Glasshouse: arousal=0.397, valence=0.0466
+Dollars and Cents: arousal=0.565, valence=0.0883
+These Are My Twisted Words: arousal=0.882, valence=0.351
+Morning Bell/Amnesiac: arousal=0.421, valence=0.182
+Inside My Head: arousal=0.816, valence=0.364
+Like Spinning Plates: arousal=0.409, valence=0.218
+The Butcher: arousal=0.569, valence=0.703
+Worrywort: arousal=0.527, valence=0.774
+Untitled v1: arousal=0.131, valence=0.127
+Maquiladora: arousal=0.658, valence=0.269
+I Want None of This: arousal=0.1, valence=0.0602
+Follow Me Around: arousal=0.4, valence=0.263
+No Surprises: arousal=0.393, valence=0.118
+I Might Be Wrong - Live: arousal=0.943, valence=0.33
+Hunting Bears: arousal=0.264, valence=0.0736
+Idioteque - Live in Oxford: arousal=0.979, valence=0.322
+Fitter Happier - Remastered: arousal=0.368, valence=0.689
+Pyramid Strings: arousal=0.216, valence=0.166
+Supercollider: arousal=0.342, valence=0.262
+Cuttooth: arousal=0.866, valence=0.416
+The National Anthem - Live in France: arousal=0.866, valence=0.303
+Lewis - Mistreated: arousal=0.885, valence=0.686
+The Morning Bell - In the Dark Version: arousal=0.211, valence=0.0933
+Street Spirit (Fade Out): arousal=0.454, valence=0.131
+Bishop's Robes: arousal=0.317, valence=0.205
+Untitled v2: arousal=0.427, valence=0.0328
+Everything In Its Right Place - Live in France: arousal=0.534, valence=0.216
+Alt. Fast Track: arousal=0.963, valence=0.646
+I Am a Wicked Child: arousal=0.574, valence=0.692
+Lotus Flower - Jacques Greene Rmx: arousal=0.592, valence=0.176
+Faithless the Wonder Boy: arousal=0.496, valence=0.306
+Untitled v3: arousal=0.193, valence=0.0943
+Life In A Glasshouse - Full Length Version: arousal=0.324, valence=0.0833
+Paperbag Writer: arousal=0.493, valence=0.681
+Little By Little - Caribou Rmx: arousal=0.586, valence=0.126
+Pearly: arousal=0.758, valence=0.334
+Treefingers - Extended Version: arousal=0.18, valence=0.0384
+High and Dry: arousal=0.383, valence=0.35
+Molasses: arousal=0.281, valence=0.437
+Fake Plastic Trees: arousal=0.229, valence=0.135
+Stupid Car: arousal=0.0206, valence=0.0953
+Karma Police - Live: arousal=0.683, valence=0.298
+Prove Yourself - Drill Version: arousal=0.528, valence=0.476
+Morning Bell - Live in Oxford: arousal=0.8, valence=0.342
+Talk Show Host - Nellee Hooper Mix: arousal=0.651, valence=0.497
+Yes I Am: arousal=0.542, valence=0.683
+Coke Babies: arousal=0.362, valence=0.0379
+I Am Citizen Insane: arousal=0.928, valence=0.556
+2 + 2 = 5 - Live at Earls Court: arousal=0.812, valence=0.347
+Palo Alto: arousal=0.622, valence=0.371
+Polyethylene (Parts 1 & 2): arousal=0.424, valence=0.253
+Blow Out - Remix: arousal=0.608, valence=0.209
+Just: arousal=0.767, valence=0.359
+Trans-Atlantic Drawl: arousal=0.606, valence=0.0326
+Paranoid Android: arousal=0.848, valence=0.207
+Anyone Can Play Guitar: arousal=0.812, valence=0.555
+Knives Out: arousal=0.675, valence=0.184
+Million Dollar Question: arousal=0.869, valence=0.315
+Kinetic: arousal=0.312, valence=0.165
+You - Drill Version: arousal=0.522, valence=0.251
+Dollars and Cents - Live: arousal=0.71, valence=0.237
+Where Bluebirds Fly: arousal=0.573, valence=0.746
+How I Made My Millions: arousal=0.0898, valence=0.273
+Climbing Up the Walls - Fila Brazillia Mix: arousal=0.304, valence=0.609
+Skttrbrain - Four Tet Remix: arousal=0.841, valence=0.596
+Feral - Lone RMX: arousal=0.877, valence=0.222
+Daydreaming: arousal=0.263, valence=0.113
+Pyramid Song: arousal=0.336, valence=0.0679
+Karma Police: arousal=0.501, valence=0.324
+Fast-Track: arousal=0.904, valence=0.4
+Creep: arousal=0.43, valence=0.104
+
+h1de0us, [10.05.2023 04:30]
+
+Burn the Witch: arousal=0.847, valence=0.62
+Bloom - Jamie xx Rework: arousal=0.538, valence=0.188
+Lotus Flower - SBTRKT RMX: arousal=0.49, valence=0.423
+Let Down: arousal=0.676, valence=0.143
+Separator - Four Tet RMX: arousal=0.456, valence=0.391
+Bloom - Jamie xx Rework Part 3: arousal=0.779, valence=0.189
+Meeting in the Aisle: arousal=0.693, valence=0.136
+Thinking About You - Drill Version: arousal=0.871, valence=0.534
+Killer Cars - Mogadon Version: arousal=0.821, valence=0.534
+A Reminder: arousal=0.39, valence=0.176
+Morning Mr Magpie - Nathan Fake Rmx: arousal=0.707, valence=0.846
+Lull: arousal=0.532, valence=0.186
+Melatonin: arousal=0.359, valence=0.0498
+Planet Telex: arousal=0.881, valence=0.258
+Remyxomatosis - Cristian Vogel RMX: arousal=0.758, valence=0.121
+Separator - Anstam RMX: arousal=0.916, valence=0.117
+Bloom - Blawan Rmx: arousal=0.949, valence=0.0328
+Planet Telex - Hexidecimal Mix: arousal=0.651, valence=0.375
+Bloom - Harmonic 313 Rmx: arousal=0.665, valence=0.185
+Bloom - Mark Pritchard Rmx: arousal=0.712, valence=0.287
+Good Evening Mrs Magpie - Modeselektor RMX: arousal=0.638, valence=0.0403
+Codex (Illum Sphere): arousal=0.573, valence=0.0671
+Give Up The Ghost - Thriller Houseghost Remix: arousal=0.894, valence=0.142
+Give Up The Ghost - Brokenchord Rmx: arousal=0.614, valence=0.095
+Morning Mr Magpie - Pearson Sound Scavenger RMX: arousal=0.336, valence=0.0895
+TKOL - Altrice Rmx: arousal=0.323, valence=0.0377
+Little By Little (Shed): arousal=0.79, valence=0.472
+Bloom - Objekt RMX: arousal=0.674, valence=0.237
+Inside My Head: arousal=0.816, valence=0.364
+Blow Out - Remix: arousal=0.608, valence=0.209
+Planet Telex - Karma Sunra Mix: arousal=0.575, valence=0.545
+How Can You Be Sure: arousal=0.478, valence=0.387
+Paranoid Android - Live: arousal=0.865, valence=0.171
+Yes I Am: arousal=0.542, valence=0.683
+Million Dollar Question: arousal=0.869, valence=0.315
+Daydreaming: arousal=0.263, valence=0.113
+The Gloaming - The 33.33333 Remix: arousal=0.738, valence=0.187
+Planet Telex - L.F.O. DJ Mix: arousal=0.572, valence=0.114
+Burn the Witch: arousal=0.847, valence=0.62
+Everything In Its Right Place: arousal=0.423, valence=0.0704
+Reckoner - Maribou State Remix (Mixed): arousal=0.756, valence=0.485
+My Iron Lung (2 Meter Session): arousal=0.82, valence=0.787
+Separator - Anstam RMX II: arousal=0.611, valence=0.223
+Weird Fishes/ Arpeggi: arousal=0.61, valence=0.199
+Morning Mr Magpie - Nathan Fake Harshdub RMX: arousal=0.738, valence=0.32
+Fake Plastic Trees - 2 Meter Session: arousal=0.139, valence=0.11
+Bones - Live: arousal=0.806, valence=0.537
+Lucky: arousal=0.492, valence=0.19
+I Want None Of This: arousal=0.0623, valence=0.0694
+Videotape: arousal=0.212, valence=0.0395
+Worrywort - Mixed: arousal=0.466, valence=0.753
+Exit Music (arr. Dennis Hazelnoot) - Live: arousal=0.189, valence=0.0363
+Daydreaming: arousal=0.244, valence=0.123
+In Limbo: arousal=0.172, valence=0.373
+Creep - Acoustic Cover: arousal=0.142, valence=0.0372
+Rapier Interviews: Radiohead - Audio Documentary: arousal=0.317, valence=0.627
+Rapier Interviews: Radiohead - Audio Documentary: arousal=0.317, valence=0.627
+The Interview: arousal=0.316, valence=0.625
